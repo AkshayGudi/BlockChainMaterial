@@ -1,0 +1,11 @@
+1.  How to timestamp a digital document
+	https://www.anf.es/pdf/Haber_Stornetta.pdf
+	
+2. SHA Chapter1
+   https://www.staff.science.uu.nl/~tel00101/liter/Books/CrypCont.pdf
+   
+3. Blockchain Economy
+	https://medium.com/cryptoeconomics-australia/the-blockchain-economy-a-beginners-guide-to-institutional-cryptoeconomics-64bf2f2beec4
+
+4. The meaning of Decentralization
+	https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274

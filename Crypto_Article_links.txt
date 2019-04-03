@@ -1,0 +1,12 @@
+Crypto
+1. https://www.coindesk.com/information/how-bitcoin-mining-works
+2. https://www.vijaypradeep.com/blog/2017-04-28-ethereums-memory-hardness-explained/
+3. Mempools : 
+	https://blog.kaiko.com/an-in-depth-guide-into-how-the-mempool-works-c758b781c608 
+4. SegWit:
+	https://medium.com/@jimmysong/understanding-segwit-block-size-fd901b87c9d4
+5. HDWallet:
+	https://bitcoinmagazine.com/articles/deterministic-wallets-advantages-flaw-1385450276/
+	
+	Public - private key
+6. https://tools.superdatascience.com/blockchain/public-private-keys/keys
